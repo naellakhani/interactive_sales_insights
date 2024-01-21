@@ -5,4 +5,4 @@ Includes SQL-based data analysis in MySQL and execution of ETL process for data 
 including line charts and bar graphs, displaying revenue trends, sales volumnes and top customers/products. Dashboard aids in strategic planning 
 and helps identify key areas for growth and improvement. 
 
-Tools used: Tableau, MySQL, SQL.
+Tools used: Tableau, MySQL, SQL, Microsoft Power BI (alternative sales dashboard created). 
